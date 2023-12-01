@@ -1,1 +1,1 @@
-pyvesync==2.1.10
+pyvesync @ git+https://github.com/pallavigudipati/pyvesync.git@new-humidifier
